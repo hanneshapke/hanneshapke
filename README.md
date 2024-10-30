@@ -4,7 +4,8 @@ I love solving on Machine Learning problems. In particular, I am interested in M
 
 Some of my works include: 
 
-- Co-authoring ...
+- Co-authored ...
+  * 📚 "[Machine Learning Production Systems](https://www.oreilly.com/library/view/machine-learning-production/9781098156008/)" by O'Reilly Media
   * 📚 "[Building Machine Learning Pipelines](https://buildingmlpipelines.com)" by O'Reilly Media
   * 📚 "[NLP in Action](https://www.manning.com/books/natural-language-processing-in-action)" by Manning Publishing
   * 💬 "[Fast, scalable and accurate NLP: Why TFX is a perfect match for deploying BERT](https://blog.tensorflow.org/2020/03/part-1-fast-scalable-and-accurate-nlp-tensorflow-deploying-bert.html)"
